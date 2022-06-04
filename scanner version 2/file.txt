@@ -1,0 +1,4 @@
+repeat 
+fact := fact * x;
+x := x 
+until x = 0;

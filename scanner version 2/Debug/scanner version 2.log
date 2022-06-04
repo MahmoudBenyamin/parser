@@ -1,0 +1,7 @@
+﻿  main.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\..\..\..\..\complier\main.cpp': No such file or directory
+  parser.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\..\..\..\..\complier\parser.cpp': No such file or directory
+  Scanner.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\..\..\..\..\..\..\..\..\complier\Scanner.cpp': No such file or directory
+  Generating Code...
